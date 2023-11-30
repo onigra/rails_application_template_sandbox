@@ -1,1 +1,1 @@
-gem 'rubocop-thread_safety'
+gem 'rubocop-thread_safety', require: false
